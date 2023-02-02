@@ -9,7 +9,7 @@ public class CountingValleysTest {
 
     @Before
     public void setUp() {
-         trail = "duuudddduuuuu";
+         trail = "duuudddduuu";
     }
 
     @Test
